@@ -78,6 +78,9 @@ int main() {
 					for(i=0; i < config; i++) {
 						printf(" %d",idade[qtd_bancos][i]);
 					} 
+					
+					 printf("\n"); 
+					 printf("\n");
 						 
 					 printf("Informações gerais: \n");
 					 printf("\n");
